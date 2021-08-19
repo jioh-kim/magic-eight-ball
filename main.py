@@ -1,3 +1,4 @@
+# FILL THIS IN DURING THE TUTORIAL
 from posix import times_result
 import discord
 import os
